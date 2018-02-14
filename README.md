@@ -1,6 +1,8 @@
 # Opencontig
 Opencontig is a CLI Windows tool to defragment (and fragment) files and folders. It includes almost the whole functionality of the Sysinternals tool (contig.exe) but it's open source and distributable under the license conditions.
-It's perfect for quickly optimizing files that are continuously becoming fragmented, or that you want to ensure are in as few fragments as possible.
+
+It's perfect for quickly optimizing files that are continuously becoming fragmented. 
+It is also useful if you are need to read a file from contiguous area in a volume that turns out it can happen. ;)
 
 ## Features
 * Analysis of free space fragmentation on a volume
